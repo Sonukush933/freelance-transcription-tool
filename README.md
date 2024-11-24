@@ -64,3 +64,11 @@ The **Freelancer Transcription Tool** is a powerful, user-friendly application d
 1. Clone the repository:
    ```bash
    git clone https://github.com/Sonukush933/freelance-transcription-tool.git
+
+### Instructions for Screenshots:
+
+![1](https://github.com/user-attachments/assets/a5c1e1db-6f66-4354-b9de-0f05c2c7943e)
+![2](https://github.com/user-attachments/assets/8197fafa-abc1-42f6-bfd4-995a47941aef)
+![3](https://github.com/user-attachments/assets/ba330fe6-20f6-49b2-b5ea-52a677fadb7a)
+![4](https://github.com/user-attachments/assets/9d0d2826-565a-446b-b690-273690f9d24e)
+
